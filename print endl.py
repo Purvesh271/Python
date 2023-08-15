@@ -1,0 +1,1 @@
+print("Dear marry,","\n","This python course is nice.","\n","THANKS :)")
